@@ -8,10 +8,14 @@
 </div>
 <h3>Stuff Knowledge:</h3>
 <div id="knowledge">
-  <img src="https://skillicons.dev/icons?i=ts,js,lua,html,css,sass,tailwind,bootstrap,react,express,elysia,bun,nodejs,mongodb,sqlite"/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,js,lua,html,css,sass,tailwind,bootstrap,react,express,elysia,bun,nodejs,mongodb,sqlite"/>
+  </p>
 </div
 </br>
 </br>
 <div id="counters">
-  <img src="https://visitcount.itsvg.in/api?id=cookie-kui&label=Profile%20Views&color=5&icon=5&pretty=true"/>
+  <p align="left">
+    <img src="https://visitcount.itsvg.in/api?id=cookie-kui&label=Profile%20Views&color=5&icon=5&pretty=true"/>
+  </p>
 </div>
