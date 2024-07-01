@@ -1,6 +1,6 @@
 <div id="cool-group">
   <img src="https://lanyard.cnrad.dev/api/1247056709881692165?showDisplayName=true&hideActivity=true"/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31znmbixpzaoquronm2udr4lxykq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff005c&bar_color_cover=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31znmbixpzaoquronm2udr4lxykq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff005c&bar_color_cover=false">
 </div>
 </br>
 <div id="stats">
