@@ -4,7 +4,7 @@
 </div>
 </br>
 <div id="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cookie-kui&theme=omni&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lovely-kui&theme=omni&show_icons=true"/>
 </div>
 <h3>Stuff Knowledge:</h3>
 <div id="knowledge">
