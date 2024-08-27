@@ -6,10 +6,10 @@
 <div id="stats">
   <img src="https://github-readme-stats.vercel.app/api?username=lovely-kui&theme=omni&show_icons=true"/>
 </div>
-<h3>Stuff Knowledge:</h3>
+<h3>Thingies I Know ^-^</h3>
 <div id="knowledge">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,lua,html,css,sass,tailwind,bootstrap,react,express,elysia,bun,nodejs,mongodb,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,lua,python,html,css,sass,tailwind,bootstrap,react,qwik,htmx,redux,express,elysia,vite,bun,mongodb,sqlite"/>
   </p>
 </div
 </br>
