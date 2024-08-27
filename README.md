@@ -9,7 +9,7 @@
 <h3>Thingies I Know ^-^</h3>
 <div id="knowledge">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,lua,python,html,css,sass,tailwind,bootstrap,react,qwik,htmx,redux,express,elysia,vite,bun,mongodb,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,lua,python,html,css,sass,tailwind,bootstrap,react,htmx,redux,express,elysia,vite,bun,mongodb,sqlite"/>
   </p>
 </div
 </br>
